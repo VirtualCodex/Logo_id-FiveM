@@ -1,0 +1,190 @@
+.logo-f0d97a44-icon {
+  position: absolute;
+  top: 9px;
+  right: 7px;
+  width: 126px;
+  height: 126px;
+  object-fit: cover;
+}
+.id,
+.x-icon {
+  position: absolute;
+}
+.id {
+  top: 140px;
+  right: 43px;
+  font-size: 30px;
+  font-weight: 900;
+  font-family: var(--font-arial);
+  color: #ff9900;
+  display: inline-block;
+  width: 53px;
+  height: 26px;
+ 
+}
+.x-icon {
+  bottom: 19px;
+  left: 24px;
+  width: 57px;
+  height: 57px;
+  object-fit: cover;
+}
+.rettangolo-1 {
+  position: absolute;
+  bottom: 25px;
+  left: 87.2px;
+  background-color: var(--color-gray-100);
+  border: 3px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 292.5px;
+  height: 44px;
+}
+.poligono-1-icon,
+.poligono-2-icon {
+  position: absolute;
+  bottom: 25px;
+  left: 70.2px;
+  width: 17px;
+  height: 44px;
+}
+.poligono-2-icon {
+  left: 379.7px;
+}
+.tracciato-3-icon {
+  position: absolute;
+  bottom: 32.85px;
+  left: 102.36px;
+  width: 34.8px;
+  height: 40.4px;
+}
+.icon-fa-solid-microphone {
+  position: absolute;
+  bottom: 47.01px;
+  left: 112.47px;
+  width: 10.6px;
+  height: 15.4px;
+}
+
+.icon-health-heart-cardiogram {
+  position: absolute;
+  bottom: 47.6px;
+  left: 146.56px;
+  width: 16.6px;
+  height: 14.2px;
+}
+
+.icon-bootstrap-shield-fill {
+  position: absolute;
+  bottom: 46.17px;
+  left: 187px;
+  width: 13.7px;
+  height: 15.8px;
+}
+.icon-box-droplet-solid,
+.icon-phosphor-hamburger-fill {
+  position: absolute;
+  bottom: 46.68px;
+  left: 220.72px;
+  width: 18.7px;
+  height: 16.7px;
+}
+.icon-box-droplet-solid {
+  position: absolute;
+  left: 262.48px;
+  width: 12.5px;
+  height: 15.3px;
+}
+.icon-health-exercise-running {
+  position: absolute;
+  bottom: 45.64px;
+  left: 297.97px;
+  width: 18px;
+  height: 15.6px;
+}
+.icon-carbon-face-dissatisfied- {
+  position: absolute;
+  bottom: 45.69px;
+  left: 335.39px;
+  width: 14.5px;
+  height: 15.1px;
+}
+.b,
+.b1,
+.b2,
+.b3,
+.b4,
+.b5,
+.b6 {
+  position: absolute;
+  bottom: 28.75px;
+  left: 101.54px;
+  display: inline-block;
+  width: 33px;
+  height: 17px;
+}
+.b1,
+.b2,
+.b3,
+.b4,
+.b5,
+.b6 {
+  bottom: 28.67px;
+  left: 138.86px;
+}
+.b2,
+.b3,
+.b4,
+.b5,
+.b6 {
+  bottom: 28.75px;
+  left: 177.54px;
+}
+.b3,
+.b4,
+.b5,
+.b6 {
+  left: 214.54px;
+}
+.b4,
+.b5,
+.b6 {
+  left: 252.54px;
+}
+.b5,
+.b6 {
+  bottom: 28.67px;
+  left: 290.54px;
+}
+.b6 {
+  bottom: 28.75px;
+  left: 326.54px;
+}
+
+.active-radio {
+  filter: brightness(0) saturate(100%) invert(38%) sepia(89%) saturate(2844%) hue-rotate(356deg) brightness(103%) contrast(103%);
+}
+
+@keyframes heartbeat {
+  0%, 20%, 50%, 80%, 100% {
+    transform: scale(1);
+  }
+  10%, 30%, 60%, 90% {
+    transform: scale(1.1);
+  }
+}
+
+.heartbeat {
+  animation: heartbeat 1s infinite;
+}
+
+.normal {
+  position: relative;
+  background-color: transparent;
+  width: 100%;
+  height: 1080px;
+  text-align: center;
+  font-size: var(--font-size-xs);
+  color: var(--color-white);
+  font-family: var(--font-open-sans);
+}
+

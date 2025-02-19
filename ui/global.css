@@ -1,0 +1,61 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-yu-gothic-ui: "Yu Gothic UI";
+  --font-roboto: Roboto;
+  --font-segoe-print: "Segoe Print";
+  --font-segoe-ui: "Segoe UI";
+  --font-malgun-gothic: "Malgun Gothic";
+  --font-open-sans: "Open Sans";
+  --font-arial: Arial;
+
+  /* font sizes */
+  --font-size-xl: 20px;
+  --font-size-9xl: 28px;
+  --font-size-13xl: 32px;
+  --font-size-19xl: 38px;
+  --font-size-11xl: 30px;
+  --font-size-38xl: 57px;
+  --font-size-12xl: 31px;
+  --font-size-40xl: 59px;
+  --font-size-8xl: 27px;
+  --font-size-6xl: 25px;
+  --font-size-7xl: 26px;
+  --font-size-29xl: 48px;
+  --font-size-36xl: 55px;
+  --font-size-57xl: 76px;
+  --font-size-31xl: 50px;
+  --font-size-35xl: 54px;
+  --font-size-64xl: 83px;
+  --font-size-21xl: 40px;
+  --font-size-2xs: 11px;
+  --font-size-2xl: 21px;
+  --font-size-5xs: 8px;
+  --font-size-6xs: 7px;
+  --font-size-4xs: 9px;
+  --font-size-lg: 18px;
+  --font-size-3xs: 10px;
+  --font-size-xs: 12px;
+
+  /* Colors */
+  --color-black: #00000000;
+  --color-white: #fff;
+  --color-darkslategray: #373737;
+  --color-gray-100: #171112;
+  --color-gray-200: rgba(255, 255, 255, 0.74);
+
+  /* Border radiuses */
+  --br-15xl: 34px;
+  --br-9xs: 4px;
+  --br-6xs: 7px;
+  --br-7xs: 6px;
+  --br-2xl: 21px;
+  --br-4xl: 23px;
+  --br-lg: 18px;
+  --br-smi: 13px;
+  --br-xs: 12px;
+}
